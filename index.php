@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>BERNARDO SILVA MALTEZ E RAFAEL SENA BARRETO SILVA</h1>
+    <img src="imagens/pizza.jfif">
 </body>
 </html>
